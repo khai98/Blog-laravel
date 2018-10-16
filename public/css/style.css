@@ -1,0 +1,17 @@
+.card-img-top {
+    height: 300px !important;
+}
+.card-title {
+    color: #3490dc;
+}
+
+.card-body {
+    margin-top: 10px;
+}
+.text {
+    color: #3490dc;
+}
+.center {
+    margin-left: 10px !important;
+
+}
